@@ -10,8 +10,8 @@ E estou me aventurando pelo desenvolvimento 💻 (front-end). </br>
 
 <div
 	<a href="linktee.com\m4nd3xxx">
-	<img height="50%" src="https://github-readme-stats.vercel.app/api?username=mandex22&show_icons=true&theme=dark&include_allcomits=true&count_private=true"/>
-	<img height="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandex22&layout=compact&langs_count=16&theme=dark"/>
+	<img height="40%" src="https://github-readme-stats.vercel.app/api?username=mandex22&show_icons=true&theme=dark&include_allcomits=true&count_private=true"/>
+	<img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandex22&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 ##
